@@ -1,5 +1,4 @@
-# Clone do Instagram 🙃
+# Recriação da página inicial do instagram. :yum:
 
-Esse é o repositório da aula de Flexbox, nela eu aprendi a recriar a interface de login do Instagram! 
+Desafio de projeto do Santander Bootcamp Fullstack Developer utilizando Flexbox.
 
-## 🚀 
